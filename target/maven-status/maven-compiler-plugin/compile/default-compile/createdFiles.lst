@@ -1,0 +1,12 @@
+com\discs\genres\dao\GenreRepository.class
+com\discs\genres\model\Genre.class
+com\discs\genres\dao\GenreRepositoryCustomImpl.class
+com\discs\genres\dao\SequenceDaoImpl.class
+com\discs\genres\model\SequenceId.class
+com\discs\genres\dao\SequenceDao.class
+com\discs\genres\exceptions\SequenceException.class
+com\discs\genres\dao\GenreRepositoryCustom.class
+com\discs\genres\GenresServerApplication.class
+com\discs\genres\controller\GenresController.class
+com\discs\genres\ErrorCodes.class
+com\discs\genres\model\response\GenresGeneralResponse.class
